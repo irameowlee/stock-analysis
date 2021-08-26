@@ -1,0 +1,10 @@
+Attribute VB_Name = "Module1"
+Sub macrocheck()
+
+    Dim testMessage As String
+    testMessage = "Hello World!"
+    MsgBox (testMessage)
+    
+    
+
+End Sub
